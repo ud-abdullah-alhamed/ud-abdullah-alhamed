@@ -3,4 +3,3 @@ My name is Abdullah, and I work as a Flutter developer. 🚀 Currently, I'm purs
 💻 Tech Stack
 
 
-![WhatsApp Image 2023-10-21 at 10 15 49 PM](https://github.com/ud-abdullah-alhamed/ud-abdullah-alhamed/assets/137105812/333d759f-9316-4e36-bf73-ede452c4e4a2)
